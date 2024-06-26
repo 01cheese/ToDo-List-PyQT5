@@ -2,6 +2,11 @@
 
 # To-Do List Application
 
+![image](https://github.com/01cheese/ToDo-List-PyQT5/assets/115219323/dbccb366-8740-4bc0-8983-86d501aadc9b)
+![image](https://github.com/01cheese/ToDo-List-PyQT5/assets/115219323/48a97912-fe03-442a-b341-4f25748151b3)
+
+
+
 This is a PyQt5-based To-Do List application that allows you to manage your tasks effectively. The application supports adding, updating, deleting, and printing tasks. Additionally, it features theme customization to enhance the user experience.
 
 ## Features
